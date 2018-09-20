@@ -1,0 +1,30 @@
+_repo: Walpole-and-Chatham-1714-1760_53005
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Esdaile, Katharine Ada
+    aliases:
+    - Esdaile, Mrs. Arundell
+    - Esdaile, Katharine Ada McDowall
+    - Esdaile, Katharine A. (Katharine Ada)
+    birthdate: 1881
+    deathdate: 1950
+    gutenberg_agent_id: '47167'
+    url: http://www.gutenberg.org/2009/agents/47167
+description: ''
+gutenberg_issued: '2016-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53005'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Walpole, Robert, Earl of Orford, 1676-1745'
+- !lcsh 'Great Britain -- History -- 18th century -- Sources'
+- !lcsh 'Pitt, William, Earl of Chatham, 1708-1778'
+- !lcc 'DA'
+- GITenberg
+title: Walpole and Chatham (1714-1760)
+url: http://www.gutenberg.org/ebooks/53005
